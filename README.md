@@ -1,7 +1,7 @@
 
 # RInvoice-Data-Extraction
 
-This project is designed to extract specific data from PDF invoices in a designated folder and output that data into an Excel file. The extracted data can be further used for various purposes such as feeding into a data entry tool.
+This project is designed to extract specific data from PDF invoices in a designated folder and output that data into an Excel file. The extracted data can be further used for various purposes such as feeding into invoice entry tool. Usecases include using this file for entry into quicks and other ERP systems of chocie.
 
 ## Features
 - Extracts essential data from PDF invoices (e.g., invoice number, tracking number, PO number, serial numbers, etc.).
